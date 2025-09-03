@@ -59,7 +59,7 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Анализ продуктовых метрик мобильного приложения](https://github.com/milenanigmanova/mobile_app_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Seaborn**|
-|[Бизнес-анализ маркетплейса](https://github.com/milenanigmanova/marketplace_analysis)|Анализ месячного retention в оформление заказа с помощью когортного анализа, применение фремворка ICE, расчёт и визуализация основных продуктовых метрик.|**Pandas** **Numpy** **Matplotlib** **Seaborn**|
+|[Анализ работы маркетплейса](https://github.com/milenanigmanova/marketplace_analysis)|Анализ месячного retention в оформление заказа с помощью когортного анализа, применение фремворка ICE, расчёт и визуализация основных продуктовых метрик.|**Pandas** **Numpy** **Matplotlib** **Seaborn**|
 |[Анализ эффективности нового алгоритма поиска анкет в приложении для знакомств](https://github.com/milenanigmanova/effectiveness_algorithm_analysis)|Расчёт основных продуктовых метрик, А/Б тестирование, применение статистических методов.|**Pandas** **Numpy** **Matplotlib** **Scipy**|
 |[Анализ оттока водителей в такси-компании](https://github.com/milenanigmanova/churn_taxi_company)|Формулировка гипотез, применение статистических методов, визуализация данных.|**Pandas** **Numpy** **Matplotlib** **Scipy** **Seaborn**|
 |[Анализ оттока водителей в такси-компании](https://github.com/milenanigmanova/churn_taxi_company)|Формулировка гипотез, применение статистических методов, визуализация данных.|**Pandas** **Numpy** **Matplotlib** **Scipy** **Seaborn**|
